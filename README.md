@@ -1,2 +1,2 @@
 # JavaScript-Course-GUVI
-Task of ZEN COURSE
+The task of ZEN COURSE
